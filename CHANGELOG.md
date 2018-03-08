@@ -1,5 +1,7 @@
 # selinux Cookbook CHANGELOG
 This file is used to list changes made in each version of the selinux cookbook.
+## 2.1.1
+- Chef 13 fixes
 
 ## 2.1.0 (2017-09-15)
 
